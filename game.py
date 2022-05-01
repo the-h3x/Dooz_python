@@ -1,14 +1,5 @@
 from os import *
 from time import sleep
-Developer = """
-||--------------------------------------|
-| |---------------------------------|***|
-| |  programmer : soheil Vanaee	    |***|
-| | instagram : soheil_developer_99 |***|
-| | rubika : soheil_dev_99	    |***|
-| |---------------------------------|***|
-| |-------------------------------------|
-"""
 
 system("clear")
 
