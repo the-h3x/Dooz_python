@@ -1,2 +1,3 @@
-# Dooz_python
-بازی دوزبا پایتون به صورت ساده برای افراد مبتدی 
+
+Dose game for beginners with Python
+
